@@ -40,7 +40,7 @@
     --input: 222 30% 18%;
     --ring: 192 91% 50%;
 
-    --radius: 2.75rem;
+    --radius: 0.625rem;
 
     --sidebar-background: 222 47% 8%;
     --sidebar-foreground: 240 5.3% 26.1%;
@@ -87,7 +87,7 @@
     --input: 222 30% 18%;
     --ring: 192 91% 50%;
     --font-sans: Poppins, ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
-    --radius: 2.75rem;
+    --radius: 0.625rem;
   }
 }
 
